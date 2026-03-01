@@ -23,9 +23,9 @@ genomförs på med ett agilt arbetssätt.
 
 ### Presentationer
 
-* [01 - Kursintro]()
+* [01 - Kursintro](https://docs.google.com/presentation/d/1wpKNGW3_oo9KAFeQ_jBWeYmGUlOsQOlQ/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [02 - Från Vattenfall till Agilt]()
-* [03 - Kanban]()
+* [03 - Kanban](https://docs.google.com/presentation/d/104C0huci0_CaKSIpkxNYmwIvhPcFJmdu/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [04 - Scrum]()
 
 ### Inspelade föreläsningar
@@ -50,7 +50,7 @@ genomförs på med ett agilt arbetssätt.
 
 
 ### Övningar 
-
+- [Diskussionsfrågor - Från Vattenfall till Agilt](https://gist.github.com/Santosnr6/94819dfb0227fa6f4494abbd40086dc6)
 
 
 
