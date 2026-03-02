@@ -24,7 +24,7 @@ genomförs på med ett agilt arbetssätt.
 ### Presentationer
 
 * [01 - Kursintro](https://docs.google.com/presentation/d/1wpKNGW3_oo9KAFeQ_jBWeYmGUlOsQOlQ/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [02 - Från Vattenfall till Agilt]()
+* [02 - Från Vattenfall till Agilt](https://docs.google.com/presentation/d/1q8kihEcv3NgnhtXrU59R-kftkp5bl2dW/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [03 - Kanban](https://docs.google.com/presentation/d/104C0huci0_CaKSIpkxNYmwIvhPcFJmdu/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [04 - Scrum]()
 
