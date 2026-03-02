@@ -33,7 +33,7 @@ genomförs på med ett agilt arbetssätt.
 **LIVE**
 
 
-**Förinspelat** (för distansklassen)
+**Förinspelat** 
 
 * [Vattenfall](https://vimeo.com/785684828/dcd97274b5?share=copy)
 * [Agilt](https://vimeo.com/785661235/4e9773007e?share=copy)
